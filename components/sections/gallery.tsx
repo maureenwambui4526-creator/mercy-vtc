@@ -48,12 +48,12 @@ const galleryImages = [
     category: "Training",
   },
   {
-    src: "/images/ict-lab.jpg",
+    src: "/images/3.jpeg",
     alt: "ICT computer laboratory",
     category: "Facilities",
   },
   {
-    src: "/images/beauty-therapy.jpg",
+    src: "/images/4.jpeg",
     alt: "Beauty therapy training",
     category: "Training",
   },
