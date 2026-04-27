@@ -5,7 +5,7 @@ import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 const testimonials = [
   {
     name: "Mary Chebet",
-    role: "Dressmaking Graduate, 2023",
+    role: "Dressmaking Graduate, 2024",
     content:
       "The practical skills I gained at Our Lady of Mercy College changed my life. I now run my own tailoring business and support my family. The trainers were patient and truly cared about our success.",
     initials: "MC",
