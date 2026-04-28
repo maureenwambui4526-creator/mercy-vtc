@@ -46,7 +46,7 @@ export function Navbar() {
               src="/logo.png" 
               alt="Our Lady of Mercy Vocational Training Centre" 
               width={120}
-              height={40}
+              height={1000}
               className="h-10 w-auto"
               priority
             />
