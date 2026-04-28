@@ -6,11 +6,11 @@ import Link from "next/link"
 
 const newsItems = [
   {
-    title: "January 2026 Intake Now Open",
-    date: "December 1, 2025",
+    title: "May 2026 Intake Now Open",
+    date: "April 1, 2026",
     category: "Admissions",
     excerpt:
-      "Applications are now being accepted for the January 2026 intake. Secure your spot in our vocational training programs today.",
+      "Applications are now being accepted for the May 2026 intake. Secure your spot in our vocational training programs today.",
   },
   {
     title: "New Computer Lab Inaugurated",
