@@ -55,7 +55,7 @@ export function Footer() {
                 <a
                   key={social.label}
                   href={social.href}
-                  className="flex items-center justify-center w-10 h-10 rounded-full bg-background/10 hover:bg-primary hover:text-primary-foreground transition-colors"
+                  className="flex items-center justify-center w-10 h-10 rounded-full bg-background/10 hover:bg-primary hover:text-primary-foreground transition-colors ring-1 ring-border/10"
                   aria-label={social.label}
                 >
                   <social.icon className="h-5 w-5" />
@@ -110,7 +110,7 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-8 border-t border-background/20">
+        <div className="mt-12 pt-8 border-t border-border/20">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="text-sm text-background/70">
               © {new Date().getFullYear()} Our Lady of Mercy College. All rights
