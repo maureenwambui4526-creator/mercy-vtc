@@ -41,15 +41,19 @@ export function Navbar() {
     >
       <nav className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Image 
-              src="/logo.png" 
-              alt="Our Lady of Mercy Vocational Training Centre" 
-              width={120}
+          <Link href="/" className="flex items-center gap-3">
+            <Image
+              src="/logo.png"
+              alt="Our Lady of Mercy Vocational Training Centre"
+              width={1200}
               height={1000}
-              className="h-10 w-auto"
+              className="h-14 w-auto"
               priority
             />
+            <div className="hidden md:flex flex-col leading-tight">
+              <span className="text-lg font-semibold">Our Lady of Mercy Vocational Training Centre</span>
+              <span className="text-xs text-foreground/70">Training for a Brighter Future</span>
+            </div>
           </Link>
 
           {/* Desktop Navigation */}
