@@ -17,7 +17,7 @@ export function CTABanner() {
           <p className="text-lg text-primary-foreground/80 mb-8 max-w-2xl mx-auto text-pretty">
             Don&apos;t wait for opportunities – create them. Join hundreds of
             successful graduates who started their journey at Our Lady of Mercy
-            College.
+            College and are now thriving in their careers. Your future starts here.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
