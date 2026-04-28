@@ -12,8 +12,8 @@ import {
 } from "lucide-react"
 
 const intakes = [
-  { month: "January", status: "Open", deadline: "December 15" },
-  { month: "May", status: "Coming Soon", deadline: "April 15" },
+  { month: "January", status: "Closed", deadline: "December 15" },
+  { month: "May", status: "Open", deadline: "April 30" },
   { month: "September", status: "Coming Soon", deadline: "August 15" },
 ]
 
