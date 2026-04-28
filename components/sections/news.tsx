@@ -6,22 +6,22 @@ import Link from "next/link"
 
 const newsItems = [
   {
-    title: "January 2025 Intake Now Open",
-    date: "December 1, 2024",
+    title: "January 2026 Intake Now Open",
+    date: "December 1, 2025",
     category: "Admissions",
     excerpt:
-      "Applications are now being accepted for the January 2025 intake. Secure your spot in our vocational training programs today.",
+      "Applications are now being accepted for the January 2026 intake. Secure your spot in our vocational training programs today.",
   },
   {
     title: "New Computer Lab Inaugurated",
-    date: "November 15, 2024",
+    date: "November 15, 2025",
     category: "Facilities",
     excerpt:
       "We are pleased to announce the opening of our new state-of-the-art computer laboratory, equipped with modern computers and high-speed internet.",
   },
   {
-    title: "Graduation Ceremony 2024",
-    date: "October 28, 2024",
+    title: "Graduation Ceremony 2025",
+    date: "October 28, 2025",
     category: "Events",
     excerpt:
       "Congratulations to all our graduates! Over 80 students received their certificates in various disciplines at our annual graduation ceremony.",
