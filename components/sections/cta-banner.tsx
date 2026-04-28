@@ -27,7 +27,7 @@ export function CTABanner() {
               className="gap-2 text-lg"
             >
               <Link href="#admissions">
-                Apply for January 2025
+                Apply for January 2026
                 <ArrowRight className="h-5 w-5" />
               </Link>
             </Button>
