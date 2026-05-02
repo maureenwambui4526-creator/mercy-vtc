@@ -11,7 +11,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog"
-import { MagnifyingGlass } from "lucide-react"
+import { Search } from "lucide-react"
 
 const feeItems = [
   {
@@ -89,7 +89,7 @@ export function FeesSection() {
                     <div className="absolute inset-0 bg-black/0 transition duration-300 hover:bg-black/10" />
                     <div className="pointer-events-none absolute inset-0 flex items-center justify-center opacity-0 transition-opacity duration-300 hover:opacity-100">
                       <div className="flex flex-col items-center gap-2 rounded-full bg-black/60 px-4 py-3 text-white">
-                        <MagnifyingGlass className="h-5 w-5" />
+                        <Search className="h-5 w-5" />
                         <span className="text-xs uppercase tracking-[0.2em]">Preview</span>
                       </div>
                     </div>
