@@ -87,7 +87,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+254 700 000 000</p>
+                    <p className="text-muted-foreground">+254 740229817</p>
                     <p className="text-sm text-muted-foreground">
                       Mon-Fri, 8:00 AM - 5:00 PM
                     </p>
@@ -108,7 +108,7 @@ export function ContactSection() {
                       Monday - Friday: 8:00 AM - 5:00 PM
                     </p>
                     <p className="text-sm text-muted-foreground">
-                      Saturday: 8:00 AM - 12:00 PM
+                      Saturday: Closed
                     </p>
                   </div>
                 </div>

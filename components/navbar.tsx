@@ -51,7 +51,7 @@ export function Navbar() {
               priority
             />
             <div className="hidden md:flex flex-col leading-tight">
-              <span className="text-lg font-semibold">Our Lady of Mercy Vocational Training Centre</span>
+              <span className="text-lg font-semibold">Mercy-Vocational-Training-Centre-Chepareria</span>
               <span className="text-xs text-foreground/70">Training for a Brighter Future</span>
             </div>
           </Link>

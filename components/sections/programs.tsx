@@ -90,31 +90,31 @@ const shortCourses = [
     icon: Monitor,
     title: "Computer Packages",
     description: "Microsoft Office, internet, and basic computer operations.",
-    duration: "3-6 Months",
+    duration: "6 Months",
   },
   {
     icon: Cpu,
     title: "Computer Repair & Maintenance",
     description: "Hardware troubleshooting and software installation.",
-    duration: "3-6 Months",
+    duration: "6 Months",
   },
   {
     icon: ChefHat,
     title: "Cake Making & Decoration",
     description: "Baking and decorating cakes for all occasions.",
-    duration: "1-3 Months",
+    duration: "6 Months",
   },
   {
     icon: ChefHat,
     title: "Pastry & Baking",
     description: "Professional pastry and bread making skills.",
-    duration: "1-3 Months",
+    duration: "6 Months",
   },
   {
     icon: Sparkles,
     title: "Beauty & Hair Services",
     description: "Quick certification in beauty and hair treatments.",
-    duration: "1-3 Months",
+    duration: "6 Months",
   },
 ]
 
