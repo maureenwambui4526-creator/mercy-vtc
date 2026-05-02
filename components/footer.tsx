@@ -113,7 +113,7 @@ export function Footer() {
               <li>Chepareria, West Pokot County</li>
               <li>P.O Box 318-30600, Kitale</li>
               <li>ourladyofmercycollege@gmail.com</li>
-              <li>+254 700 000 000</li>
+              <li>+254 740 229 817</li>
             </ul>
           </div>
         </div>

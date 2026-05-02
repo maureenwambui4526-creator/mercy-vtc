@@ -20,8 +20,8 @@ const newsItems = [
       "We are pleased to announce the opening of our new state-of-the-art computer laboratory, equipped with modern computers and high-speed internet.",
   },
   {
-    title: "Graduation Ceremony 2025",
-    date: "October 28, 2025",
+    title: "Graduation Ceremony 2024",
+    date: "October 28, 2024",
     category: "Events",
     excerpt:
       "Congratulations to all our graduates! Over 80 students received their certificates in various disciplines at our annual graduation ceremony.",
