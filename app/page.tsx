@@ -4,6 +4,7 @@ import { AboutSection } from "@/components/sections/about"
 import { ProgramsSection } from "@/components/sections/programs"
 import { FacilitiesSection } from "@/components/sections/facilities"
 import { AdmissionsSection } from "@/components/sections/admissions"
+import { FeesSection } from "@/components/sections/fees"
 import { ImpactSection } from "@/components/sections/impact"
 import { LeadershipSection } from "@/components/sections/leadership"
 import { GallerySection } from "@/components/sections/gallery"
@@ -22,6 +23,7 @@ export default function Home() {
       <ProgramsSection />
       <FacilitiesSection />
       <AdmissionsSection />
+      <FeesSection />
       <ImpactSection />
       <LeadershipSection />
       <GallerySection />

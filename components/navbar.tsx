@@ -13,6 +13,7 @@ const navLinks = [
   { href: "#programs", label: "Programs" },
   { href: "#facilities", label: "Facilities" },
   { href: "#admissions", label: "Admissions" },
+  { href: "#fees", label: "Fees" },
   { href: "#impact", label: "Impact" },
   { href: "#gallery", label: "Gallery" },
   { href: "#contact", label: "Contact" },
